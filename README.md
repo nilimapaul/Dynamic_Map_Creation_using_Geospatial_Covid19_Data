@@ -9,3 +9,5 @@ country names from two datasets when we tried to join them. To solve that proble
 shape file in QGIS and after observing where such mismatches are present and we manually changed the
 names to make them constant for the two datasets. Then using geo-pandas library, we have made dynamic
 mapping of spread of corona virus and finally made a .gif file which shows the dynamic change.
+
+Note: Find the code in master branch.
